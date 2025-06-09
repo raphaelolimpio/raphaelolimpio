@@ -1,6 +1,6 @@
 # Raphael Olimpio Aparecido Pereira Lima
 
-Bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
+Bem-vindo(a) ao meu perfil! Sou apenas um curioso tentando entender as máquinas.
 
 ---
 
@@ -13,9 +13,9 @@ Bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia, sempre em busca de no
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-olimpio-aparecido-pereira-lima/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-olimpio-aparecido-pereira-lima) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaelolimpio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-murdok.rapha@gmail.com)
 
 ---
 
@@ -33,9 +33,8 @@ Bem-vindo(a) ao meu perfil! Sou apaixonado por tecnologia, sempre em busca de no
 
 ## ⚡ Curiosidades
 
-- 🚀 Sempre aberto(a) a novos projetos e colaborações
+- 🚀 Sempre aberto a novos projetos e colaborações
 - 📚 Amante de tecnologia, inovação e aprendizado contínuo
-- 🤝 Vamos conectar e criar juntos!
 
 ---
 
