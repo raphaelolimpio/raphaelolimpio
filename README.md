@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu perfil! Sou apenas um curioso tentando entender as máquinas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-olimpio-aparecido-pereira-lima-202aa1199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaelolimpio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-murdok.rapha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murdok.rapha@gmail.com)
 
 ---
 
