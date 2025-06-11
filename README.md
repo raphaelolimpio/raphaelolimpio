@@ -1,17 +1,17 @@
 # Raphael Olimpio Aparecido Pereira Lima
 
-Bem-vindo(a) ao meu perfil! Sou apenas um curioso tentando entender as máquinas.
+Welcome to my profile! I'm just a curious person trying to understand machines.
 
 ---
 
-## 🚀 Sobre mim
-- 👨‍💻 Desenvolvedor focado em soluções inovadoras
-- 💡 Entusiasta de open source e comunidades tech
-- 🎯 Buscando sempre evoluir e compartilhar conhecimento
+## 🚀 About Me
+- 👨‍💻 Developer focused on innovative solutions
+- 💡 Open source and tech community enthusiast
+- 🎯 Always seeking to evolve and share knowledge
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-olimpio-aparecido-pereira-lima-202aa1199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raphaelolimpio)
@@ -25,16 +25,16 @@ Bem-vindo(a) ao meu perfil! Sou apenas um curioso tentando entender as máquinas
 
 ---
 
-## 🏆 Principais Linguagens
+## 🏆 Main Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelolimpio&layout=compact&theme=radical&langs_count=8&hide_title=true)
 
 ---
 
-## ⚡ Curiosidades
+## ⚡ Fun Facts
 
-- 🚀 Sempre aberto a novos projetos e colaborações
-- 📚 Amante de tecnologia, inovação e aprendizado contínuo
+- 🚀 Always open to new projects and collaborations
+- 📚 Lover of technology, innovation, and continuous learning
 
 ---
 
