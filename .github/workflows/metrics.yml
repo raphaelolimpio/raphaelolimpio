@@ -1,10 +1,8 @@
 name: Metrics
 
 on:
-  # Atualiza automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  # Permite rodar manualmente na aba Actions
   workflow_dispatch:
 
 jobs:
@@ -18,17 +16,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
-          
-          # Configurações de exibição
           user: raphaelolimpio
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           
-          # Animações e plugins visuais
-          config_timezone: America/Sao_Paulo
+          # Ajuste para evitar que a imagem fique muito longa/cortada
+          config_padding: 0, 8%
           plugin_lines: yes
           plugin_habits: yes
-          plugin_habits_facts: yes
+          plugin_habits_facts: no # Desativado para reduzir altura
           plugin_habits_charts: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
