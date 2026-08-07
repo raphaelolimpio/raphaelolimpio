@@ -78,8 +78,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
----
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=100&section=footer&animation=fadeIn" width="100%" />
