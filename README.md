@@ -1,30 +1,36 @@
 # Raphael Olimpio Aparecido Pereira Lima
 
-Welcome to my profile! I'm just a curious person trying to understand machines.
+Welcome to my profile! Driven by curiosity, focused on building innovative digital solutions, managing tech projects, and continuously evolving.
 
 ---
 
 ## 🚀 About Me
-- 👨‍💻 Developer focused on innovative solutions
-- 💡 Open source and tech community enthusiast
-- 🎯 Always seeking to evolve and share knowledge
+- 💼 Project Management & Tech Leadership focus
+- 📱💻 Software Developer specializing in Mobile (Flutter) & Web Development
+- 💡 Open source enthusiast and collaborative team player
+- 🎯 Passionate about tech innovation, process optimization, and continuous learning
 
 ---
 
 ## 🛠️ Languages & Tools
 
+### 💻 Languages & Frameworks
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ⚙️ Infrastructure, Databases & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -51,8 +57,8 @@ Welcome to my profile! I'm just a curious person trying to understand machines.
 
 ## ⚡ Fun Facts
 
-- 🚀 Always open to new projects and collaborations
-- 📚 Lover of technology, innovation, and continuous learning
+- 🚀 Open to leadership, project management, and software development collaborations
+- 📚 Continuous learner focused on bridging technology solutions with business strategy
 
 ---
 
