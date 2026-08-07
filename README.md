@@ -20,6 +20,14 @@
 
 ---
 
+## 🐍 My Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/output/github-contribution-grid-snake.svg" alt="Github Snake Game" width="100%" />
+</div>
+
+<br>
+
 ## 🛠️ Languages & Tools
 
 <br>
@@ -54,35 +62,6 @@
 </div>
 <br>
 
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/output/github-contribution-grid-snake.svg" alt="Github Snake Game" width="100%" />
-</div>
-
-<br>
----
-
-## 📊 GitHub Stats & Main Languages
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=raphaelolimpio&theme=radical&show_icons=true&hide_title=true&count_private=true" alt="GitHub Stats" height="170px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelolimpio&layout=compact&theme=radical&langs_count=8&hide_title=true" alt="Top Langs" height="170px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -101,7 +80,6 @@
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=100&section=footer&animation=fadeIn" width="100%" />
