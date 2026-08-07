@@ -58,7 +58,7 @@
   <!-- Nota: Para que esta animação funcione, você precisa configurar um GitHub Action simples. 
        Se você não configurar, esta imagem ficará quebrada. 
        Alternativa: Você pode remover esta seção ou usar um GIF estático de cobrinha. -->
-  <img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/output/github-contribution-grid-snake.svg" alt="Github Snake Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/output/github-snake-crescente.svg" alt="Github Snake Game - Crescente" width="100%" />
 </div>
 
 <br>
