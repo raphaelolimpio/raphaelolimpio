@@ -49,13 +49,13 @@
 
 <br>
 
-## 🐍 My Contribution Snake
+## 🌌 Activity & Coding Habits
 
 <div align="center">
   <!-- Nota: Para que esta animação funcione, você precisa configurar um GitHub Action simples. 
        Se você não configurar, esta imagem ficará quebrada. 
        Alternativa: Você pode remover esta seção ou usar um GIF estático de cobrinha. -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0175C2&center=true&vCenter=true&width=500&lines=Project+Manager;Flutter+%26+Mobile+Developer;Web+Development;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 <br>## 🐍 My Contribution Snake
