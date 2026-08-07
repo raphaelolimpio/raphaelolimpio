@@ -1,11 +1,10 @@
-<!-- CABEÇALHO ANIMADO -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=180&section=header&text=Raphael%20Olimpio&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Project%20Manager%20%7C%20Tech%20Lead%20%7C%20Developer&descSize=20&descAlignY=55" width="100%" />
 </div>
 
 <br>
 
-<!-- BOAS-VINDAS & SOBRE -->
 <div align="center">
   <h3>👋 Welcome to my profile! Driven by curiosity, focused on building innovative digital solutions.</h3>
   <p>I specialize in <b>bridges between technology solutions and business strategy</b>.</p>
@@ -26,7 +25,6 @@
 <br>
 
 <div align="center">
-  <!-- TAGS DE LINGUAGENS -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -37,7 +35,6 @@
   
   <br>
 
-  <!-- TAGS DE FERRAMENTAS/INFRA -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -52,32 +49,17 @@
 ## 🌌 Activity & Coding Habits
 
 <div align="center">
-  <!-- Nota: Para que esta animação funcione, você precisa configurar um GitHub Action simples. 
-       Se você não configurar, esta imagem ficará quebrada. 
-       Alternativa: Você pode remover esta seção ou usar um GIF estático de cobrinha. -->
+
 <img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
-
-<br>## 🐍 My Contribution Snake
-
-<div align="center">
-  <!-- Nota: Para que esta animação funcione, você precisa configurar um GitHub Action simples. 
-       Se você não configurar, esta imagem ficará quebrada. 
-       Alternativa: Você pode remover esta seção ou usar um GIF estático de cobrinha. -->
-<img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/output/github-contribution-grid-snake.svg" alt="Github Snake Game" width="100%" />
-</div>
-
 <br>
+
 
 ---
 
-<!-- SEÇÃO DE JOGO DA COBRINHA (MOVIMENTO REAL) -->
 ## 🐍 My Contribution Snake
 
 <div align="center">
-  <!-- Nota: Para que esta animação funcione, você precisa configurar um GitHub Action simples. 
-       Se você não configurar, esta imagem ficará quebrada. 
-       Alternativa: Você pode remover esta seção ou usar um GIF estático de cobrinha. -->
 <img src="https://raw.githubusercontent.com/raphaelolimpio/raphaelolimpio/output/github-contribution-grid-snake.svg" alt="Github Snake Game" width="100%" />
 </div>
 
@@ -120,7 +102,7 @@
 
 ---
 
-<!-- RODAPÉ EM ONDA ANIMADO -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
