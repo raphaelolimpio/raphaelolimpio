@@ -1,4 +1,4 @@
-name: Generate Crescente Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -13,16 +13,16 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: Generate github-snake-crescente.svg (Node 24 Compatible)
-        uses: raphaelolimpio/snake-builder-actions/crescente-mode@v1
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Define as cores da sua cobrinha crescendo
-          crescente_color: "#0175C2" # Azul igual ao seu banner
-          background_color: "transparent"
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#0175C2&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#0175C2&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Push github-snake-crescente.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4.1.0
+      - name: Push github-contribution-grid-snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
